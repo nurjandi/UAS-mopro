@@ -17,8 +17,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Aplikasi ini ialah aplikasi untuk mencari
-        spot WIFI yang ada di daerah Bandung"
+        android:text="Aplikasi ini ialah aplikasi untuk mencari\nspot WIFI yang ada di daerah Bandung"
+        android:textAlignment="center"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="250dp"
         android:textColor="@color/colorWhite"/>
